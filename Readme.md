@@ -1,11 +1,12 @@
-## Assignment 03
+## ASSIGNMENT 03
 
 ### 1.TEAM DEATILS:
 
-     NAME                      USN
-* 1.R.PRATIKSHA               1KS18CS076
-* 2.SINDU.A.S                 1KS18CS096
-* 3.VARIDHI MADHURANATH       1KS18CS111
+|     NAME              |      USN      |
+|-----------------------|---------------|
+| 1.R.PRATIKSHA         |  1KS18CS076   |
+| 2.SINDU.A.S           |  1KS18CS096   |
+| 3.VARIDHI MADHURANATH |  1KS18CS111   |
 
 ### 2.CONTRIBUTION OF EACH TEAM MEMBER:
 * R.PRATIKSHA:
