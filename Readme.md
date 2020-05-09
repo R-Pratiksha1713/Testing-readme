@@ -1,20 +1,17 @@
 #Assignment 03
 
 ##1.TEAM DEATILS:
-    
-    NAME                      USN
-*1.R.PRATIKSHA               1KS18CS076
-*2.SINDU.A.S                 1KS18CS096
-*3.VARIDHI MADHURANATH       1KS18CS111
+
+     NAME                      USN
+1.R.PRATIKSHA               1KS18CS076
+2.SINDU.A.S                 1KS18CS096
+3.VARIDHI MADHURANATH       1KS18CS111
 
 ##2.CONTRIBUTION OF EACH TEAM MEMBER:
-
 *a)R.PRATIKSHA:
 Went through the libraray functions in Java for code simplification.Finding and implementation of logic. 
-
 *b)SINDU.A.S:
 Various approaches were suggested towards solving the problem.Tried implementation of code in C.
-
 *c)VARIDHI MADHURANATH:
 Error correction.
 
