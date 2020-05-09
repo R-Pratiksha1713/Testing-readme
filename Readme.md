@@ -9,12 +9,12 @@
 | 3.VARIDHI MADHURANATH |  1KS18CS111   |
 
 ### 2.CONTRIBUTION OF EACH TEAM MEMBER:
-* R.PRATIKSHA:
-Went through the libraray functions in Java for code simplification.Finding and implementation of logic. 
-* SINDU.A.S:
-Various approaches were suggested towards solving the problem.Tried implementation of code in C.
-* VARIDHI MADHURANATH:
-Error correction.
+|     NAME             |      CONTRIBUTION      |
+|----------------------|------------------------:|
+| R.PRATIKSHA          |Went through the libraray functions in Java for code simplification.Finding and implementation of logic|
+| SINDU.A.S            |Various approaches were suggested towards solving the problem.Tried implementation of code in C|
+| VARIDHI MADHURANATH  |Error correction|
+
 
 ### 3.INSTRUCTIONS TO RUN THE PROGRAM:
 * On the terminal:
